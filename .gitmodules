@@ -1172,3 +1172,6 @@
 [submodule "libraries/drivers/tmag5273"]
 	path = libraries/drivers/tmag5273
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TMAG5273.git
+[submodule "libraries/drivers/max44009"]
+	path = libraries/drivers/max44009
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX44009.git
