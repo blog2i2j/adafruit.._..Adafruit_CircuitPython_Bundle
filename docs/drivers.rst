@@ -482,6 +482,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     TSL2591 High Dynamic Range Light Sensor (adafruit_tsl2591) <https://docs.circuitpython.org/projects/tsl2591/en/latest/>
     VCNL4010 Proximity and Light (adafruit_vcnl4010) <https://docs.circuitpython.org/projects/vcnl4010/en/latest/>
     VCNL4020 Proximity and Light (adafruit_vcnl4020) <https://docs.circuitpython.org/projects/vcnl4020/en/latest/>
+    VCNL4030 Proximity and Light (adafruit_vcnl4030) <https://docs.circuitpython.org/projects/vcnl4030/en/latest/>
     VCNL4040 Proximity and Light (adafruit_vcnl4040) <https://docs.circuitpython.org/projects/vcnl4040/en/latest/>
     VCNL4200 Proximity and Light (adafruit_vcnl4200) <https://docs.circuitpython.org/projects/vcnl4200/en/latest/>
     VEML6070 UV Index (adafruit_veml6070) <https://docs.circuitpython.org/projects/veml6070/en/latest/>
@@ -533,6 +534,7 @@ These provide functionality similar to ``analogio``, ``digitalio``, ``pulseio``,
     Adafruit SeeSaw (adafruit_seesaw) <https://docs.circuitpython.org/projects/seesaw/en/latest/>
     ADG72x Analog Matrix Switches (adafruit_adg72x) <https://docs.circuitpython.org/projects/adg72x/en/latest/>
     ADS1x15 Analog-to-Digital Converter  (adafruit_ads1x15) <https://docs.circuitpython.org/projects/ads1x15/en/latest/>
+    ADS122C04 24-Bit ADC (adafruit_ads122c04) <https://docs.circuitpython.org/projects/ads122c04/en/latest/>
     ADS7830 8-Channel 8-Bit ADC (adafruit_ads7830) <https://docs.circuitpython.org/projects/ads7830/en/latest/>
     AW9523 GPIO expander and LED driver (adafruit_aw9523) <https://docs.circuitpython.org/projects/aw9523/en/latest/>
     Crickit Robotics Boards (adafruit_crickit) <https://docs.circuitpython.org/projects/crickit/en/latest/>
