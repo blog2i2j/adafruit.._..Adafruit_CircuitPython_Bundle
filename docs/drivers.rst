@@ -474,6 +474,7 @@ These sensors detect light related attributes such as ``color``, ``light`` (unit
     GUVx I2C UV Light Sensors (adafruit_guvx-i2c) <https://docs.circuitpython.org/projects/guvx-i2c/en/latest/>
     LTR329 LTR303 Light Sensors (adafruit_ltr329-ltr303) <https://docs.circuitpython.org/projects/ltr329-ltr303/en/latest/>
     LTR390 Ambient Light and UV Sensor (adafruit_ltr390) <https://docs.circuitpython.org/projects/ltr390/en/latest/>
+    MAX44009 Wide-range Lux Light Sensor (adafruit_max44009) <https://docs.circuitpython.org/projects/max44009/en/latest/>
     OPT4048 Tri-Stimulus XYZ Color and Lux Sensor <https://docs.circuitpython.org/projects/opt4048/en/latest/>
     TCS3430/TCS34303 Tri-Stimulus XYZ Color Sensor (adafruit_tcs3430) <https://docs.circuitpython.org/projects/tcs3430/en/latest/>
     TCS34725 Color Sensor (adafruit_tcs34725) <https://docs.circuitpython.org/projects/tcs34725/en/latest/>

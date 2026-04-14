@@ -1178,3 +1178,6 @@
 [submodule "libraries/drivers/ads122c04"]
 	path = libraries/drivers/ads122c04
 	url = https://github.com/adafruit/Adafruit_CircuitPython_ADS122C04.git
+[submodule "libraries/drivers/max44009"]
+	path = libraries/drivers/max44009
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX44009.git
