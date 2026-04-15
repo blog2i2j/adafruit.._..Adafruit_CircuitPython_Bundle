@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 392 libraries available.
+There are 393 libraries available.
 
 ## Drivers:
 * [Adafruit CircuitPython 24LC32](https://github.com/adafruit/Adafruit_CircuitPython_24LC32.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-24lc32)) ([Docs](https://docs.circuitpython.org/projects/24lc32/en/latest/))
@@ -125,6 +125,7 @@ There are 392 libraries available.
 * [Adafruit CircuitPython MAX31855](https://github.com/adafruit/Adafruit_CircuitPython_MAX31855.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31855)) ([Docs](https://docs.circuitpython.org/projects/max31855/en/latest/))
 * [Adafruit CircuitPython MAX31856](https://github.com/adafruit/Adafruit_CircuitPython_MAX31856.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31856)) ([Docs](https://docs.circuitpython.org/projects/max31856/en/latest/))
 * [Adafruit CircuitPython MAX31865](https://github.com/adafruit/Adafruit_CircuitPython_MAX31865.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max31865)) ([Docs](https://docs.circuitpython.org/projects/max31865/en/latest/))
+* [Adafruit CircuitPython MAX44009](https://github.com/adafruit/Adafruit_CircuitPython_MAX44009.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max44009)) ([Docs](https://docs.circuitpython.org/projects/max44009/en/latest/))
 * [Adafruit CircuitPython MAX7219](https://github.com/adafruit/Adafruit_CircuitPython_MAX7219.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max7219)) ([Docs](https://docs.circuitpython.org/projects/max7219/en/latest/))
 * [Adafruit CircuitPython MAX9744](https://github.com/adafruit/Adafruit_CircuitPython_MAX9744.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-max9744)) ([Docs](https://docs.circuitpython.org/projects/max9744/en/latest/))
 * [Adafruit CircuitPython MCP230xx](https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx.git) ([PyPi](https://pypi.org/project/adafruit-circuitpython-mcp230xx)) ([Docs](https://docs.circuitpython.org/projects/mcp230xx/en/latest/))
